@@ -1,0 +1,121 @@
+{
+    "source": "https://github.com/dariusk/corpora/blob/master/data/divination/zodiac.json",
+
+    "Aries": {
+            "unicode_symbol": "♈",
+            "gloss": "The Ram",
+            "element": "Fire",
+            "approximate_start_date": "21 March",
+            "approximate_end_date": "20 April",
+            "keywords": ["driven", "idealistic", "aggressive"]
+        },
+        "Taurus": {
+            "unicode_symbol": "♉",
+            "gloss": "The Bull",
+            "element": "Earth",
+            "approximate_start_date": "21 April",
+            "approximate_end_date": "21 May",
+            "keywords": ["resolute", "sensual", "indulgent"]
+        },
+        "Gemini": {
+        
+            "unicode_symbol": "♊",
+            "gloss": "The Twins",
+            "element": "Air",
+           
+            "approximate_start_date": "22 May",
+            "approximate_end_date": "21 June",
+            "keywords": ["playful", "curious", "two-faced"]
+        },
+        "Cancer": {
+        
+  
+            "unicode_symbol": "♋",
+            "gloss": "The Crab",
+            "element": "Water",
+            
+            "approximate_start_date": "22 June",
+            "approximate_end_date": "23 July",
+            "keywords": ["nurturing", "snobby", "petty"]
+        },
+        "Leo": {
+      
+            "unicode_symbol": "♌",
+            "gloss": "The Lion",
+            "element": "Fire",
+         
+            "approximate_start_date": "24 July",
+            "approximate_end_date": "23 August",
+            "keywords": ["fierce", "opulent", "narcissistic"]
+        },
+        "Virgo": {
+         
+            "unicode_symbol": "♍",
+            "gloss": "The Maiden",
+            "element": "Earth",
+         
+            "approximate_start_date": "24 August",
+            "approximate_end_date": "23 September",
+            "keywords": ["meticulous", "helpful", "naive"]
+        },
+        "Libra": {
+ 
+            "unicode_symbol": "♎",
+            "gloss": "The Scales",
+            "element": "Air",
+
+            "approximate_start_date": "24 September",
+            "approximate_end_date": "23 October",
+            "keywords": ["balanced", "chatty", "indecisive"]
+        },
+        "Scorpio": {
+    
+            "unicode_symbol": "♏",
+            "gloss": "The Scorpion",
+            "element": "Water",
+
+            "approximate_start_date": "24 October",
+            "approximate_end_date": "22 November",
+            "keywords": ["deep", "magnetic", "destructive"]
+        },
+        "Sagittarius": {
+     
+            "unicode_symbol": "♐",
+            "gloss": "The Archer",
+            "element": "Fire",
+
+            "approximate_start_date": "23 November",
+            "approximate_end_date": "21 December",
+            "keywords": ["ambitious", "daring", "coarse"]
+        },
+        "Capricorn": {
+  
+            "unicode_symbol": "♑",
+            "gloss": "The Mountain Sea-goat",
+            "element": "Earth",
+
+            "approximate_start_date": "22 December",
+            "approximate_end_date": "20 January",
+            "keywords": ["responsible", "awkward", "rigid"]
+        },
+        "Aquarius": {
+
+            "unicode_symbol": "♒",
+            "gloss": "The Water-bearer",
+            "element": "Air",
+
+            "approximate_start_date": "21 January",
+            "approximate_end_date": "19 February",
+            "keywords": ["inventive", "zany", "erratic"]
+        },
+        "Pisces": {
+   
+            "unicode_symbol": "♓",
+            "gloss": "The Fish",
+            "element": "Water",
+        
+            "approximate_start_date": "20 February",
+            "approximate_end_date": "20 March",
+            "keywords": ["artistic", "sentimental", "dependent"]
+        }
+    },
